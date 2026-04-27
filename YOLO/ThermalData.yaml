@@ -1,0 +1,10 @@
+# Absolute pth to dataset folder
+path: ../Data/dataset  
+
+# Train and Validation image directories
+train: train/images
+val: test/images    
+
+# Classes
+names:
+  0: human
